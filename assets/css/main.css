@@ -1793,6 +1793,9 @@ input, select, textarea {
 	header.major h2 {
 		font-size: 2em;
 	}
+	paragraph.major p {
+		font-size: 1.1em;
+	}
 
 /* Form */
 
