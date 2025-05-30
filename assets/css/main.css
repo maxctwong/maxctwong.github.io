@@ -3219,3 +3219,8 @@ input, select, textarea {
 			}
 
 	}
+
+#two p {
+    font-size: 18pt;   /* Or your desired size */
+    color: #525252;    /* Or your desired color */
+}
