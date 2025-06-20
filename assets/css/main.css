@@ -2646,6 +2646,9 @@ input, select, textarea {
 			margin: 0 0 1em 0;
 			width: 6.25em;
 		}
+		#header .icons a {
+			color: rgba(255, 255, 255, 0.4);
+		}
 
 /* Footer */
 
