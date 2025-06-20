@@ -3002,7 +3002,9 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		/* Header */
-
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.4);
+			}
 			#header {
 				padding: 6em 3em 3em 3em;
 				width: 30%;
@@ -3058,7 +3060,9 @@ input, select, textarea {
 			}
 
 		/* Header */
-
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.4);
+			}
 			#header {
 				background-attachment: scroll;
 				background-position: top left, center center;
@@ -3162,7 +3166,9 @@ input, select, textarea {
 				}
 
 		/* Header */
-
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.4);
+			}
 			#header {
 				padding: 2.25em 1.5em;
 			}
@@ -3206,7 +3212,9 @@ input, select, textarea {
 	@media screen and (max-width: 480px) {
 
 		/* Header */
-
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.4);
+			}
 			#header {
 				padding: 4.5em 1.5em;
 			}
