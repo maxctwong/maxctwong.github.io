@@ -2135,7 +2135,7 @@ input, select, textarea {
 
 			.image.fit img {
 			    width: 100%;
-			    aspect-ratio: 4 / 3;
+			    aspect-ratio: 5 / 3;
 			    object-fit: cover; /* Optional: crops images to fill space uniformly */
 			    display: block;
 			}
