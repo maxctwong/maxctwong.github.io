@@ -2139,6 +2139,7 @@ input, select, textarea {
 			    aspect-ratio: 3 / 2;
 			    object-fit: cover; /* Optional: crops images to fill space uniformly */
 			    display: block;
+			    vertical-align: middle;
 			}
 
 		.image.avatar {
